@@ -14,11 +14,12 @@ const buscarDados = (param) => {
 const mostrarDados = (param) => {
     statistics.innerHTML = "";
     const img = document.createElement("img")
+    img.classList = "imagem-perfil"
     img.src = param.avatar_url;
     statistics.appendChild(img);
     
     const nome = document.createElement("h2");
-    nome.innerHTML = param.name + " - ID: " + param.id;
+    nome.innerHTML = param.name;
     statistics.appendChild(nome);
 
     const frase = document.createElement("p");
