@@ -30,25 +30,81 @@ input {
     color: rgba(255, 255, 255, 0.842);
 }
 button {
-    margin: 5px;
+    margin: 0 0 0 10px;
     border: none;
     border-radius: 50%;
     width: 30px;
     height: 30px;
     cursor: pointer;
+    background-color: rgb(147, 192, 252);
 }
 button:hover{
     background-color: rgb(104, 167, 248);
 }
-#statistics {
-    position: relative;
-    top: 3rem;
-    left: 50%;
-    margin: 0 0 0 -165px;
-    width: 300px;
+.search-image {
+    width: 17px;
+    background-color: transparent;
 }
 .imagem-perfil{
     width: 325px;
     margin-bottom: 15px;
+    border-radius: 9px 9px 0 0 ;
+    background-color: aliceblue;
+}
+#statistics {
+    position: relative;
+    top: 1.5rem;
+    left: 50%;
+    margin: 0 0 0 -165px;
+    width: 325px;
+    background-color: black;
     border-radius: 10px;
+}
+.nome-usuario {
+    text-align: center;
+    background-color: transparent;
+    color: white;
+    padding: 0 10px;
+}
+.frase {
+    background-color: transparent;
+    font-style: italic;
+    text-align: center;
+    color: white;
+    padding: 0 15px;
+}
+.repositorios {
+    background-color: transparent;
+    color: white;
+    margin: 0 0 0 10px;
+
+}
+.imagem-localizacao {
+    width: 15px;
+    background-color: white;
+    filter: invert();
+    padding-left: 6px;
+}
+.localizacao {
+    display: inline-block;
+    color: white;
+    background-color: black;
+    margin: 0 0 0 5px;
+}
+.empresa {
+    margin: 0 0 0 10px;
+    background-color: black;
+    color: white;
+}
+.link {
+    text-align: center;
+    display: block;
+    background-color: black;
+    color: white;
+    padding: 10px 0;
+    border-radius: 10px;
+
+}
+p {
+    padding: 5px 0 10px 0px;
 }
