@@ -1,4 +1,4 @@
-# Consumingo API de estatísticas do GitHub - GitHub Statistics API
+# Consumingo API de estatísticas do GitHub - GitHub Statistics
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/diogosflorencio/GitHub-Statistics-API?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/diogosflorencio/GitHub-Statistics-API?style=for-the-badge)
@@ -22,23 +22,23 @@ O projeto ainda está em desenvolvimento, e as próximas atualizações serão f
 - [x] Estilização primária usando CSS
 - [x] Possibilidade de pesquisar apenas clicando na tecla Enter
 - [x] Criação do README.md
-- [ ] Estilização final do projeto
-- [ ] Realizar testes e correções
-- [ ] Finalização
+- [x] Estilização final do projeto
+- [x] Realizar testes e correções
+- [x] Finalização
 
 ## 💻 Pré-requisitos
 
-Não há pré-requisitos. Basta clicar no link:  [Checklist](https://diogosflorencio.github.io/GitHub-Statistics-API/).
+Não há pré-requisitos. Basta clicar no link:  [Checklist](https://diogosflorencio.github.io/github-statistics).
 
-## 🚀 Iniciando projeto "Checklist"
+## 🚀 Iniciando projeto "GitHub Statistics"
 
 Para iniciar o projeto no seu computador, basta clonar o repositório:
 
 ```
-git clone https://github.com/diogosflorencio/GitHub-Statistics-API
+git clone https://github.com/diogosflorencio/github-statistics
 ```
 
-## 📫 Contribuindo para "Consumingo API de estatísticas do GitHub - GitHub Statistics API"
+## 📫 Contribuindo para "Consumingo API de estatísticas do GitHub - GitHub Statistics"
 
 Para contribuir com o projeto, siga estas etapas:
 
