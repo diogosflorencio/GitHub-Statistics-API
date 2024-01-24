@@ -1,10 +1,10 @@
 # Consumingo API de estatísticas do GitHub - GitHub Statistics
 
-![GitHub repo size](https://img.shields.io/github/repo-size/diogosflorencio/GitHub-Statistics-API?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/diogosflorencio/GitHub-Statistics-API?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/diogosflorencio/GitHub-Statistics-API?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/diogosflorencio/GitHub-Statistics-API?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/diogosflorencio/GitHub-Statistics-API?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/diogosflorencio/github-statistics?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/diogosflorencio/github-statistics?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/diogosflorencio/github-statistics?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/diogosflorencio/github-statistics?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/diogosflorencio/github-statistics?style=for-the-badge)
 
 
 <img src="https://github.com/diogosflorencio/GitHub-Statistics-API/assets/33941005/e31355b3-0eee-4383-80f3-bf181425de88" style="width:27%" alt="Exemplo de imagem">
