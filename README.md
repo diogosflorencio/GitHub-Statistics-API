@@ -1,10 +1,10 @@
-# Consumingo API de estatísticas do GitHub - GitHub Statistics API
+# Consumingo API de estatísticas do GitHub - GitHub Statistics
 
-![GitHub repo size](https://img.shields.io/github/repo-size/diogosflorencio/GitHub-Statistics-API?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/diogosflorencio/GitHub-Statistics-API?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/diogosflorencio/GitHub-Statistics-API?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/diogosflorencio/GitHub-Statistics-API?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/diogosflorencio/GitHub-Statistics-API?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/diogosflorencio/github-statistics?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/diogosflorencio/github-statistics?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/diogosflorencio/github-statistics?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/diogosflorencio/github-statistics?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/diogosflorencio/github-statistics?style=for-the-badge)
 
 
 <img src="https://github.com/diogosflorencio/GitHub-Statistics-API/assets/33941005/e31355b3-0eee-4383-80f3-bf181425de88" style="width:27%" alt="Exemplo de imagem">
@@ -22,23 +22,23 @@ O projeto ainda está em desenvolvimento, e as próximas atualizações serão f
 - [x] Estilização primária usando CSS
 - [x] Possibilidade de pesquisar apenas clicando na tecla Enter
 - [x] Criação do README.md
-- [ ] Estilização final do projeto
-- [ ] Realizar testes e correções
-- [ ] Finalização
+- [x] Estilização final do projeto
+- [x] Realizar testes e correções
+- [x] Finalização
 
 ## 💻 Pré-requisitos
 
-Não há pré-requisitos. Basta clicar no link:  [Checklist](https://diogosflorencio.github.io/GitHub-Statistics-API/).
+Não há pré-requisitos. Basta clicar no link:  [Checklist](https://diogosflorencio.github.io/github-statistics).
 
-## 🚀 Iniciando projeto "Checklist"
+## 🚀 Iniciando projeto "GitHub Statistics"
 
 Para iniciar o projeto no seu computador, basta clonar o repositório:
 
 ```
-git clone https://github.com/diogosflorencio/GitHub-Statistics-API
+git clone https://github.com/diogosflorencio/github-statistics
 ```
 
-## 📫 Contribuindo para "Consumingo API de estatísticas do GitHub - GitHub Statistics API"
+## 📫 Contribuindo para "Consumingo API de estatísticas do GitHub - GitHub Statistics"
 
 Para contribuir com o projeto, siga estas etapas:
 
