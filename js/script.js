@@ -51,7 +51,7 @@ const mostrarDados = (param) => {
     if(param.location != null){
         const imagemLocalizacao = document.createElement("img");
         imagemLocalizacao.classList = "imagem-localizacao";
-        imagemLocalizacao.src = "../image/localizacao.png"
+        imagemLocalizacao.src = "image/localizacao.png"
         statistics.appendChild(imagemLocalizacao);
     }
 
